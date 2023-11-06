@@ -1,8 +1,8 @@
-package abstractfactorydp.furniturefactory;
+package creational.abstractfactory.furniturefactory;
 
-import abstractfactorydp.furniturefactory.factories.FurnitureFactory;
-import abstractfactorydp.furniturefactory.products.Chair;
-import abstractfactorydp.furniturefactory.products.Table;
+import creational.abstractfactory.furniturefactory.factories.FurnitureFactory;
+import creational.abstractfactory.furniturefactory.products.Chair;
+import creational.abstractfactory.furniturefactory.products.Table;
 
 // This is inspired by example here
 // https://refactoring.guru/design-patterns/abstract-factory

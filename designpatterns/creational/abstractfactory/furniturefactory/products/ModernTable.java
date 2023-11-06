@@ -1,4 +1,4 @@
-package abstractfactorydp.furniturefactory.products;
+package creational.abstractfactory.furniturefactory.products;
 
 public class ModernTable implements Table {
 

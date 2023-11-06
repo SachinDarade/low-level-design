@@ -1,4 +1,4 @@
-package factorydp.dialog;
+package creational.dialog;
 
 public class UbuntuButton implements Button {
     @Override

@@ -1,4 +1,4 @@
-package factorydp.dialog;
+package creational.dialog;
 
 public class WindowsDialog extends Dialog {
     @Override

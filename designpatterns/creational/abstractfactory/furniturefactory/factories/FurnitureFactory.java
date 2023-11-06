@@ -1,7 +1,7 @@
-package abstractfactorydp.furniturefactory.factories;
+package creational.abstractfactory.furniturefactory.factories;
 
-import abstractfactorydp.furniturefactory.products.Chair;
-import abstractfactorydp.furniturefactory.products.Table;
+import creational.abstractfactory.furniturefactory.products.Chair;
+import creational.abstractfactory.furniturefactory.products.Table;
 
 public interface FurnitureFactory {
 
