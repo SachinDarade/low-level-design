@@ -1,4 +1,4 @@
-package creational.dialog;
+package creational.factory.dialog;
 
 // This is based on the example discussed here
 // https://refactoring.guru/design-patterns/factory-method

@@ -1,4 +1,4 @@
-package creational.dialog;
+package creational.factory.dialog;
 
 public class WindowsButton implements Button {
     @Override

@@ -1,4 +1,4 @@
-package creational.dialog;
+package creational.factory.dialog;
 
 public class UbuntuDialog extends Dialog {
     @Override
